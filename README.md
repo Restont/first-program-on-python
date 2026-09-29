@@ -1,6 +1,6 @@
 # Calculator
 
-A simple calculator in Python. It can add, subtract, multiply, and divide numbers.
+A simple calculator in Python. It can add, subtract, multiply, and divide any numbers.
 
 ## Features
 
