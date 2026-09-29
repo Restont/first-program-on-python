@@ -18,3 +18,14 @@ A simple calculator in Python. It can add, subtract, multiply, and divide any nu
 4. Enter an operation
 
 ## Example
+
+```
+First number: 10
+Second number: 5
+What to do? (+ - * /): +
+Result: 15
+What to do? (+ - * /): *
+Result: 50
+What to do? (+ - * /): stop
+You did 2 operations. Bye!
+```
